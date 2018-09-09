@@ -1,0 +1,13 @@
+Requirement:
+Write a crypto feed: a web server that returns crypto quotes on demand scraped/API’d 
+from an exchange (his choice).Single Java executable, no databases.
+
+Analysis:
+As per my understanding, i need to create a java project with some java files and a 
+service file that returns crypto quotes on demand.
+-I am not supposed to use any database.
+-To get the data from server i have used Rest(Service) with help of third party API's and JARS 
+
+
+In order to execute these files in your system you need to provide API KEY which i
+have uploaded by using seperate file in GITHUB with name API KEY.
