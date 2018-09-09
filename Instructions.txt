@@ -11,3 +11,4 @@ service file that returns crypto quotes on demand.
 
 In order to execute these files in your system you need to provide API KEY which i
 have uploaded by using seperate file in GITHUB with name API KEY.
+And also you need to have that jar files in your build path.
