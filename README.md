@@ -1,2 +1,2 @@
-# My-Repositary
-May contain the code i developed
+# My-Repository
+CODE REPOSITORY
